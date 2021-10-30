@@ -1,4 +1,4 @@
-## Bem Vindo ao meu perfil
+## Bem Vindo ao meu portfólio
 
 De uma área não tecnológica, descobri a Ciência de Dados por acaso no final de 2015. Apaixonei-me. Comecei por curiosidade e descobri um universo em que eu pudesse, com base em dados, ajudar pessoas e empresas no desenvolvimento de seus negócios. Decidi embarcar e procurei por conhecimentos técnico e não técnico que me permitissem um melhor desenvolvimento focado em entregar valor.
 
