@@ -146,7 +146,6 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
                 <div class="resume-section-content">
                     <h2 class="mb-5">Skills</h2>
                     <div class="subheading mb-3">Programming Languages & Tools</div>
-                  
                     </ul>
                     <div class="subheading mb-3">Workflow</div>
                     <ul class="fa-ul mb-0">
