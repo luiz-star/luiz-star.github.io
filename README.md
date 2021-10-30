@@ -281,7 +281,6 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
                             Power BI 
                         </li>
                         </li>                     
-                        
                     </ul>
                 </div>
             </section>
