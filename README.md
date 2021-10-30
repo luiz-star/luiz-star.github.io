@@ -1,8 +1,12 @@
 ## Bem Vindo ao meu perfil
 
-You can use the [editor on GitHub](https://github.com/luiz-star/luiz-star.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+De uma área não tecnológica, descobri a Ciência de Dados por acaso no final de 2015. Apaixonei-me. Comecei por curiosidade e descobri um universo em que eu pudesse, com base em dados, ajudar pessoas e empresas no desenvolvimento de seus negócios. Decidi embarcar e procurei por conhecimentos técnico e não técnico que me permitissem um melhor desenvolvimento focado em entregar valor.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Possuo um perfil curioso, flexível e dinâmico e isso me permite pesquisar, aprender, filtrar informações e compartilhá-los para decisão cooperativa.
+
+Sou capaz de aplicar pensamento crítico e inteligência na exploração, tratamento e manipulação, visualização e análise de dados através de algoritmos estatístico e de Machine Learning com o objetivo de encontrar padrões, realizar predições e extrair insights poderosos para resolução de problemas de negócio.
+
+Linkedin : linkedin.com/in/luiz-henrique-sc
 
 ### Markdown
 
