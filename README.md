@@ -27,8 +27,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![![data-science-skills-network1-e1417010633616](https://user-images.githubusercontent.com/72530507/139539431-9a9b1a27-c643-4497-a11e-22b8cc39d5a3.jpg)
-](src)
+[Link](![data-science-skills-network1-e1417010633616](https://user-images.githubusercontent.com/72530507/139539472-89f5be99-06ac-41b3-9537-fa9a0ecf12ac.jpg)
+) and ![image]](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
