@@ -112,7 +112,6 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
                             <h3 class="mb-0">Universidad Europea del Atlântico</h3>
                             <div class="subheading mb-3">Mestrado em Direção Estratégica em Tecnologias da Informação</div>
                             <div>Especialização Engenharia de Software</div>
-                            <p>GPA: 3.23</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">October 2021 - Present</span></div>
                     </div>
@@ -120,21 +119,18 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Pontifícia Universidade Católica do Rio de Janeiro - PUC Rio</h3>
                             <div class="subheading mb-3">MBA Ciência de Dados</div>
-                            <p>GPA: 3.56</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">January 2021 - July 2022</span></div>
                     </div>    
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Universidade Cesumar- UNICESSUMAR</h3>
                             <div class="subheading mb-3">Pós Graduação em Engenharia e Gestão da Produção</div>
-                            <p>GPA: 3.23</p>
                         </div>
                     <div class="flex-shrink-0"><span class="text-primary">January 2018 - December 2019</span></div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Universidade do Contestado - UNC</h3>
                             <div class="subheading mb-3">Graduação em Tecnologia em Logística</div>
-                            <p>GPA: 3.56</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">January 2011 - December 2013</span></div>
                 </div>
