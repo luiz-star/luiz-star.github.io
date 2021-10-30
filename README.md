@@ -1,4 +1,3 @@
-
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -280,8 +279,7 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             Power BI 
                         </li>
-                        </li>                     
-                    </ul>
+                    </ul>                             
                 </div>
             </section>
         </div>
@@ -291,3 +289,4 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
         <script src="js/scripts.js"></script>
     </body>
 </html>
+        
