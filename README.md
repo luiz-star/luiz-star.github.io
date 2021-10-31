@@ -14,7 +14,7 @@
                     <a href=" https://www.linkedin.com/in/luiz-henrique-sc">Linkedin</a>
                     </div>
                     <a href=" https://github.com/luiz-star?after=Y3Vyc29yOnYyOpK5MjAyMS0wNS0wN1QyMTo1MDowMy0wMzowMM4YTRe3&tab=repositories">Github</a>   
-                        <a href="mailto:name@email.com">riquebue@hotmail.com</a>
+                    <a href="mailto:name@email.com">riquebue@hotmail.com</a>
                     <p class="lead mb-5">Olá, seja bem vindo (a)!</p>
                     <div class="social-icons">
                         <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
@@ -24,7 +24,7 @@
             </section>
             <hr class="m-0" />
             <!-- P_R_O_J_E_T_O_S-->
-            <section class="resume-section" id="PROJETOS">
+            <section class="resume-section" id="P_R_O_J_E_T_O_S">
                 <div class="resume-section-content">
                     <h2 class="mb-5">PROJETOS</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -274,6 +274,6 @@ Quando você executa a função configuração, ela primeiro confirma os tipos d
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-</body>
+    </body>
 </html>
         
