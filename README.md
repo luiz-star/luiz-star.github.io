@@ -14,9 +14,7 @@
                     <a href=" https://www.linkedin.com/in/luiz-henrique-sc">Linkedin</a>
                     </div>
                     <a href=" https://github.com/luiz-star?after=Y3Vyc29yOnYyOpK5MjAyMS0wNS0wN1QyMTo1MDowMy0wMzowMM4YTRe3&tab=repositories">Github</a>   
-                    </div>
                         <a href="mailto:name@email.com">riquebue@hotmail.com</a>
-                    </div>
                     <p class="lead mb-5">Olá, seja bem vindo (a)! </p>
                     <div class="social-icons">
                         <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
@@ -25,7 +23,7 @@
                 </div>
             </section>
             <hr class="m-0" />
-            <!-- PROJETOS-->
+            <!-- P_R_O_J_E_T_O_S-->
             <section class="resume-section" id="PROJETOS">
                 <div class="resume-section-content">
                     <h2 class="mb-5">PROJETOS</h2>
@@ -108,7 +106,28 @@ Pesquisa Salarial realizada pelo site https://www.freecodecamp.com/ com programa
                             <p>Pré processamento Linguagem Natural NeatText é um pacote simples de processamento de linguagem natural para limpar dados de texto e pré-processar dados de texto. Ele pode ser usado para limpar frases, extrair e-mails, números de telefone, links da web e emojis de frases. Também pode ser usado para configurar pipelines de pré-processamento de texto.</p>
                         </div>
                     </div>
-                </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Projeto9 Lazzy Predict</h3>
+                             <a href="https://github.com/luiz-star/Lazzy_Predict">Projeto8</a>
+                            <div class="subheading mb-3">https://github.com/luiz-star/Lazzy_Predict</div>
+                            <img src="lazzy.png" alt="Lazy Predict ( Preguicoso)" width=500 height=300>
+                            <p>É uma das melhores bibliotecas python que o ajuda a semi-automatizar sua tarefa de aprendizado de máquina. Ele constrói muitos modelos básicos sem muito código e ajuda a entender quais modelos funcionam melhor sem qualquer ajuste de parâmetro.
+                              
+Suponha que temos uma declaração de problema e realmente precisamos aplicar todos os modelos naquele conjunto de dados específico e temos que analisar como está o desempenho de nosso modelo básico. Aqui, modelo básico significa “Modelo sem parâmetros”. Portanto, podemos fazer essa tarefa diretamente usando o Lazy Predict. Depois de obter toda a precisão, podemos escolher os 5 principais modelos e aplicar o ajuste de hiperparâmetros a eles. Ele fornece um Lazy Classifier para resolver o problema de classificação e Lazy Regressor para resolver o problema de regressão.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Projeto10 Pycaret</h3>
+                             <a href="https://github.com/luiz-star/PYCARET">Projeto8</a>
+                            <div class="subheading mb-3">https://github.com/luiz-star/PYCARET</div>
+                            <img src="![](https://miro.medium.com/max/850/1*tNq0zW90xIQXYmftKmXhuw.png)" alt="PYCARET" width=500 height=300>
+                            <p>O Pycaret executa algumas tarefas básicas de pré- processamento, como ignorar os IDs e as colunas de data, imputar os valores ausentes, codificar as variáveis categóricas e dividir o conjunto de dados na divisão de teste e treino para o restante das etapas de modelagem.
+
+Quando você executa a função configuração, ela primeiro confirma os tipos de dados e, em seguida, se você pressionar enter, criará o ambiente para você prosseguir</p>
+                        </div>
+                    </div>
             </section>
             <hr class="m-0" />
             <!-- Skills-->
@@ -116,7 +135,6 @@ Pesquisa Salarial realizada pelo site https://www.freecodecamp.com/ com programa
                 <div class="resume-section-content">
                     <h2 class="mb-5">Skills</h2>
                     <div class="subheading mb-3">Programming Languages & Tools</div>
-                    </ul>
                     <div class="subheading mb-3">Workflow</div>
                     <ul class="fa-ul mb-0">
                         <li>
