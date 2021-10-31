@@ -15,7 +15,7 @@
                     </div>
                     <a href=" https://github.com/luiz-star?after=Y3Vyc29yOnYyOpK5MjAyMS0wNS0wN1QyMTo1MDowMy0wMzowMM4YTRe3&tab=repositories">Github</a>   
                         <a href="mailto:name@email.com">riquebue@hotmail.com</a>
-                    <p class="lead mb-5">Olá, seja bem vindo (a)! </p>
+                    <p class="lead mb-5">Olá, seja bem vindo (a)!</p>
                     <div class="social-icons">
                         <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>                        
@@ -127,7 +127,7 @@ Quando você executa a função configuração, ela primeiro confirma os tipos d
                         </div>
                     </div>
                 </section>
-            <hr class="m-0" />
+                <hr class="m-0" />
             <!-- Skills-->
             <section class="resume-section" id="skills">
                 <div class="resume-section-content">
@@ -274,6 +274,6 @@ Quando você executa a função configuração, ela primeiro confirma os tipos d
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-    </body>
+</body>
 </html>
         
