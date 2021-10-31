@@ -11,6 +11,7 @@
                     <div class="subheading mb-5">
                         Mafra -SC · Brasil 
                     <a href=" https://www.linkedin.com/in/luiz-henrique-sc">Linkedin</a>
+                      </dir>
                     <a href=" https://github.com/luiz-star?after=Y3Vyc29yOnYyOpK5MjAyMS0wNS0wN1QyMTo1MDowMy0wMzowMM4YTRe3&tab=repositories">Github</a>
                     <a href="mailto:name@email.com">riquebue@hotmail.com</a>
                     <p class="lead mb-5">Olá, seja bem vindo (a)!</p>
