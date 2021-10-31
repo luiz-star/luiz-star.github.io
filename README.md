@@ -22,10 +22,10 @@
                 </div>
             </section>
             <hr class="m-0" />
-            <!-- P_R_O_J_E_T_O_S-->
+         <!-- P_R_O_J_E_T_O_S-->
             <section class="resume-section" id="P_R_O_J_E_T_O_S">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">PROJETOS</h2>
+                    <h2 class="mb-5">P_R_O_J_E_T_O_S</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Projeto1 Redes_Neurais_Convolucionais</h3>
