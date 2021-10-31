@@ -122,7 +122,7 @@ Suponha que temos uma declaração de problema e realmente precisamos aplicar to
                             <h3 class="mb-0">Projeto10 Pycaret</h3>
                              <a href="https://github.com/luiz-star/PYCARET">Projeto8</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/PYCARET</div>
-                            <img src="![](https://miro.medium.com/max/850/1*tNq0zW90xIQXYmftKmXhuw.png)" alt="PYCARET" width=500 height=300>
+                            <img src="pycaret.html" alt="PYCARET" width=500 height=300>
                             <p>O Pycaret executa algumas tarefas básicas de pré- processamento, como ignorar os IDs e as colunas de data, imputar os valores ausentes, codificar as variáveis categóricas e dividir o conjunto de dados na divisão de teste e treino para o restante das etapas de modelagem.
 
 Quando você executa a função configuração, ela primeiro confirma os tipos de dados e, em seguida, se você pressionar enter, criará o ambiente para você prosseguir</p>
