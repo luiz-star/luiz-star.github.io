@@ -12,11 +12,8 @@
                         Mafra -SC · Brasil 
                     </div>
                     <a href=" https://www.linkedin.com/in/luiz-henrique-sc">Linkedin</a>
-                    </div>
                     <a href=" https://github.com/luiz-star?after=Y3Vyc29yOnYyOpK5MjAyMS0wNS0wN1QyMTo1MDowMy0wMzowMM4YTRe3&tab=repositories">Github</a> 
-                    </div>
                     <a href="mailto:name@email.com">riquebue@hotmail.com</a>
-                    </div>
                     <p class="lead mb-5">Olá, seja bem vindo (a)!</p>
                     </div>
                 </section>
@@ -272,6 +269,6 @@ Quando você executa a função configuração, ela primeiro confirma os tipos d
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-   </body>      
+    </body>      
 </html>
         
