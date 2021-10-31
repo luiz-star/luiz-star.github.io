@@ -109,22 +109,20 @@ Pesquisa Salarial realizada pelo site https://www.freecodecamp.com/ com programa
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Projeto9 Lazzy Predict</h3>
-                             <a href="https://github.com/luiz-star/Lazzy_Predict">Projeto8</a>
+                             <a href="https://github.com/luiz-star/Lazzy_Predict">Projeto9</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Lazzy_Predict</div>
-                            <img src="lazzy.png" alt="Lazy Predict ( Preguicoso)" width=500 height=300>
-                            <p>É uma das melhores bibliotecas python que o ajuda a semi-automatizar sua tarefa de aprendizado de máquina. Ele constrói muitos modelos básicos sem muito código e ajuda a entender quais modelos funcionam melhor sem qualquer ajuste de parâmetro.
-                              
+                            <img src="lazzy.png" alt="Lazy Predict_( Preguicoso)" width=500 height=300>
+                            <p>É uma das melhores bibliotecas python que o ajuda a semi-automatizar sua tarefa de aprendizado de máquina. Ele constrói muitos modelos básicos sem muito código e ajuda a entender quais modelos funcionam melhor sem qualquer ajuste de parâmetro.                              
 Suponha que temos uma declaração de problema e realmente precisamos aplicar todos os modelos naquele conjunto de dados específico e temos que analisar como está o desempenho de nosso modelo básico. Aqui, modelo básico significa “Modelo sem parâmetros”. Portanto, podemos fazer essa tarefa diretamente usando o Lazy Predict. Depois de obter toda a precisão, podemos escolher os 5 principais modelos e aplicar o ajuste de hiperparâmetros a eles. Ele fornece um Lazy Classifier para resolver o problema de classificação e Lazy Regressor para resolver o problema de regressão.</p>
                         </div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Projeto10 Pycaret</h3>
-                             <a href="https://github.com/luiz-star/PYCARET">Projeto8</a>
+                             <a href="https://github.com/luiz-star/PYCARET">Projeto10</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/PYCARET</div>
-                            <img src="pycaret.html" alt="PYCARET" width=500 height=300>
+                            <img src="pycaret2.png" alt="PYCARET" width=500 height=300>
                             <p>O Pycaret executa algumas tarefas básicas de pré- processamento, como ignorar os IDs e as colunas de data, imputar os valores ausentes, codificar as variáveis categóricas e dividir o conjunto de dados na divisão de teste e treino para o restante das etapas de modelagem.
-
 Quando você executa a função configuração, ela primeiro confirma os tipos de dados e, em seguida, se você pressionar enter, criará o ambiente para você prosseguir</p>
                         </div>
                     </div>
