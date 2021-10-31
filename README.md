@@ -72,8 +72,8 @@
                    </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">https://github.com/luiz-star/Ebook_Machine_Learning</h3>
-                            <div class="subheading mb-3">Ebook_Machine_Learning</div>
+                            <h3 class="mb-0">Projeto2 Ebook_Machine_Learning</h3>
+                            <div class="subheading mb-3">https://github.com/luiz-star/Ebook_Machine_Learning</div>
                             <p>Ebook Desmistificando o Machine Learning produzido pelo comitê de Machine Learning I2AI , projeto realizado no intuito de ajudar no aprendizado de iniciantes</p>
                         </div>
                    </div>
