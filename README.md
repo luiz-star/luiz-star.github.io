@@ -18,9 +18,6 @@
                     <a href="mailto:name@email.com">riquebue@hotmail.com</a>
                     </div>
                     <p class="lead mb-5">Olá, seja bem vindo (a)!</p>
-                    <div class="social-icons">
-                        <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>                        
                     </div>
                 </div>
             </section>
@@ -277,5 +274,6 @@ Quando você executa a função configuração, ela primeiro confirma os tipos d
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
      </body>
+  </head>     
 </html>
         
