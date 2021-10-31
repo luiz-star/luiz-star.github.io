@@ -76,17 +76,53 @@
                             <div class="subheading mb-3">https://github.com/luiz-star/Ebook_Machine_Learning</div>
                             <p>Ebook Desmistificando o Machine Learning produzido pelo comitê de Machine Learning I2AI , projeto realizado no intuito de ajudar no aprendizado de iniciantes</p>
                         </div>
+                   </div>    
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Projeto3 PLN_Word2vec</h3>
+                            <div class="subheading mb-3">https://github.com/luiz-star/PLN-Word2vec</div>
+                            <p>Previsão de Palavras com Base no Contexto e Visualização com PCA
+Teste do Modelo e Redução de Dimensionalidade com PCA.            
+
+Para testar o modelo, tudo que precisamos é dos pesos, em nosso exemplo W1 e W2. Mas visualizar os dados é desafiador, pois a dimensionalidade é alta e quanto maior o número de palavras do vocabulário, mais complicado.
+Uma alternativa, é reduzir a diemensionalidade dos dados. Convertemos todos os atributos em 2 componentes principais usando PCA (Principal Component Analysis) e com 2 componentes podemos visualizar os dados.</p>
+                        </div>     
                    </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Projeto3 Diabetes_PUC_RIO</h3>
+                            <h3 class="mb-0">Projeto4 Deep Learning_Introducao_TensorFlow</h3>
+                            <div class="subheading mb-3">https://github.com/luiz-star/Intro_TensorFlow</div>
+                            <p>O Tensorflow é uma das bibliotecas mais amplamente utilizadas para implementar o aprendizado de máquina e outros algoritmos que envolvem grandes operações matemáticas. O Tensorflow foi desenvolvido pelo Google e é uma das bibliotecas de aprendizado de máquina mais populares no GitHub. O Google usa o Tensorflow para aprendizado de máquina em quase todos os aplicativos. Se você já usou o Google Photos ou o Google Voice Search, então já utlizou uma aplicação criada com a ajuda do TensorFlow. Vamos compreender os detalhes por trás do TensorFlow.
+
+Matematicamente, um tensor é um vetor N-dimensional, significando que um tensor pode ser usado para representar conjuntos de dados N-dimensionais.</p>
+                        </div>     
+                   </div>
+                   <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                       <div class="flex-grow-1">
+                           <h3 class="mb-0">Projeto5 Agrupamento_de_Clientes</h3>
+                           <div class="subheading mb-3">https://github.com/luiz-star/Agrupamento_Clientes</div>
+                           <p> Agrupar os consumidores por similaridade a afim de compreender o comportamento dos clientes e sua relação com o consumo de energia.A partir de dados de consumo de energia de clientes, nosso trabalho é agrupar os consumidores por similaridade a afim de compreender o comportamento dos clientes e sua relação com o consumo de energia.</p>
+                        </div>
+                   </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Projeto6 Análise_Exploratória de Dados</h3>
+                            <div class="subheading mb-3">https://github.com/luiz-star/ANALISE-EXPLORATORIA-DADOS</div>
+                            <p>Neste notebook usaremos uma pesquisa recente nos EUA sobre o mercado de trabalho para programadores de software. Nosso objetivo é fazer uma investigação inicial dos dados a fim de detectar problemas com os dados, necessidade de mais variáveis, falhas na organização e necessidades de transformação.
+Pesquisa Salarial realizada pelo site https://www.freecodecamp.com/ com programadores de software nos EUA que frequentaram treinamentos Bootcamp.</p>
+                        </div>
+                   </div>    
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Projeto7 Diabetes_PUC_RIO</h3>
                             <div class="subheading mb-3">https://github.com/luiz-star/Diabetes_Puc_rio</div>
                             <p>Pré-processamento de Dados.Especialização em Ciência de Dados - PUC-Rio. Para este experimento, vamos utilizar o dataset Pima Indians Diabetes, que é originalmente do Instituto Nacional de Diabetes e Doenças Digestivas e Renais. Seu objetivo dé prever se um paciente tem ou não diabetes, com base em certas medidas de diagnóstico médico. Este é um subconjunto de um dataset maior e aqui, todos os pacientes são mulheres com pelo menos 21 anos de idade e de herança indígena Pima.</p>
                         </div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Projeto4 Mini_Palestra_FATEC_OURINHOS</h3>
+                            <h3 class="mb-0">Projeto8 Mini_Palestra_FATEC_OURINHOS</h3>
+                             <a href="https://github.com/luiz-star/Minha_Palestra_FATEC_OURINHOS">team</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Minha_Palestra_FATEC_OURINHOS</div>
                             <p>Pré processamento Linguagem Natural NeatText é um pacote simples de processamento de linguagem natural para limpar dados de texto e pré-processar dados de texto. Ele pode ser usado para limpar frases, extrair e-mails, números de telefone, links da web e emojis de frases. Também pode ser usado para configurar pipelines de pré-processamento de texto.</p>
                         </div>
@@ -274,6 +310,6 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-    </body>
+   </body>
 </html>
         
