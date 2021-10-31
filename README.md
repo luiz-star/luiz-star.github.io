@@ -14,9 +14,10 @@
                     <a href=" https://github.com/luiz-star?after=Y3Vyc29yOnYyOpK5MjAyMS0wNS0wN1QyMTo1MDowMy0wMzowMM4YTRe3&tab=repositories">Github</a>
                     <a href="mailto:name@email.com">riquebue@hotmail.com</a>
                     <p class="lead mb-5">Olá, seja bem vindo (a)!</p>
+                </dir>      
             </section>
             <hr class="m-0" />
-          <!-- P_R_O_J_E_T_O_S-->
+        <!-- P_R_O_J_E_T_O_S-->
             <section class="resume-section" id="P_R_O_J_E_T_O_S">
                 <div class="resume-section-content">
                     <h2 class="mb-5">P_R_O_J_E_T_O_S</h2>
