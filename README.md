@@ -270,5 +270,5 @@ Quando você executa a função configuração, ela primeiro confirma os tipos d
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
       
-</html>
+
         
