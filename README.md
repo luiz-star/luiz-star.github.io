@@ -80,8 +80,8 @@
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Diabetes_PUC_RIO</h3>
-                            <div class="subheading mb-3">Pré-processamento de Dados</div>
-                            <p>Especialização em Ciência de Dados - PUC-Rio. Para este experimento, vamos utilizar o dataset Pima Indians Diabetes, que é originalmente do Instituto Nacional de Diabetes e Doenças Digestivas e Renais. Seu objetivo dé prever se um paciente tem ou não diabetes, com base em certas medidas de diagnóstico médico. Este é um subconjunto de um dataset maior e aqui, todos os pacientes são mulheres com pelo menos 21 anos de idade e de herança indígena Pima.</p>
+                            <div class="subheading mb-3">https://github.com/luiz-star/Diabetes_Puc_rio</div>
+                            <p>Pré-processamento de Dados.Especialização em Ciência de Dados - PUC-Rio. Para este experimento, vamos utilizar o dataset Pima Indians Diabetes, que é originalmente do Instituto Nacional de Diabetes e Doenças Digestivas e Renais. Seu objetivo dé prever se um paciente tem ou não diabetes, com base em certas medidas de diagnóstico médico. Este é um subconjunto de um dataset maior e aqui, todos os pacientes são mulheres com pelo menos 21 anos de idade e de herança indígena Pima.</p>
                         </div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
