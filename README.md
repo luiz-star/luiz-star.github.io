@@ -48,6 +48,7 @@
                         GITHUB- https://www.linkedin.com/in/luiz-henrique-sc
                     </div>
                         Linkedin- linkedin.com/in/luiz-henrique-sc
+                    </div>
                         <a href="mailto:name@email.com">riquebue@hotmail.com</a>
                     </div>
                     <p class="lead mb-5">Olá, seja bem vindo (a)! </p>
@@ -66,33 +67,29 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Redes_Neurais_Convolucionais</h3>
                             <div class="subheading mb-3">https://github.com/luiz-star/Redes_Neurais_convolucionais</div>
-                            <p>Content teacher at EAD data science creating materials, codes, concepts. To ensure the students' learning process through content management. Determining the best ways and practices to bring knowledge to students.</p>
+                            <p>Uma Rede Neural Convolucional (ConvNet / Convolutional Neural Network / CNN) é um algoritmo de Aprendizado Profundo (Deep Learning) que pode captar uma imagem de entrada, atribuir importância (pesos e vieses que podem ser aprendidos) a vários aspectos / objetos da imagem e ser capaz de diferenciar um do outro. O pré-processamento exigido em uma CNN é muito menor em comparação com outros algoritmos de classificação. Enquanto nos métodos primitivos os filtros são feitos à mão, com treinamento suficiente, as CNNs têm a capacidade de aprender esses filtros / características</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">October 2021 - Present</span></div>
-                    </div>
+                   </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Position Member of the Machine Learning Committee I2AI</h3>
-                            <div class="subheading mb-3">I2AI - International Association of Artificial Intelligence</div>
-                            <p>This committee aims to spread and level knowledge of machine learning, demystifying technologies through the study of use cases, followed by debates not only about technology, but also about ethics, bias and other issues surrounding the use of these algorithms</p>
+                            <h3 class="mb-0">Ebook_Machine_Learning</h3>
+                            <div class="subheading mb-3">https://github.com/luiz-star/Ebook_Machine_Learning</div>
+                            <p>Ebook Desmistificando o Machine Learning produzido pelo comitê de Machine Learning I2AI , projeto realizado no intuito de ajudar no aprendizado de iniciantes</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">January 2021 - Present</span></div>
-                    </div>
+                   </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">I2AI associate member</h3>
-                            <div class="subheading mb-3">I2AI - International Association of Artificial Intelligence</div>
-                            <p>The I2AI (International Association of Artificial Intelligence) is an association that connects business, knowledge and technology, bringing together the different parts of an ecosystem to accelerate the sustainable adoption of Artificial Intelligence in the world.</p>
+                            <h3 class="mb-0">Diabetes_PUC_RIO</h3>
+                            <div class="subheading mb-3">Pré-processamento de Dados</div>
+                            <p>Especialização em Ciência de Dados - PUC-Rio. Para este experimento, vamos utilizar o dataset Pima Indians Diabetes, que é originalmente do Instituto Nacional de Diabetes e Doenças Digestivas e Renais. Seu objetivo dé prever se um paciente tem ou não diabetes, com base em certas medidas de diagnóstico médico. Este é um subconjunto de um dataset maior e aqui, todos os pacientes são mulheres com pelo menos 21 anos de idade e de herança indígena Pima.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">January 2021 - Present</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Technology Instrutor Data Science</h3>
-                            <div class="subheading mb-3">IMPACTA TECNOLOGIA - São Paulo, Brasil</div>
-                            <p>Track Training Instructor and Data Science Bootcamp and Machine Learning</p>
+                            <h3 class="mb-0">Mini_Palestra_FATEC_OURINHOS</h3>
+                            <div class="subheading mb-3">https://github.com/luiz-star/Minha_Palestra_FATEC_OURINHOS</div>
+                            <p>Pré processamento Linguagem Natural NeatText é um pacote simples de processamento de linguagem natural para limpar dados de texto e pré-processar dados de texto. Ele pode ser usado para limpar frases, extrair e-mails, números de telefone, links da web e emojis de frases. Também pode ser usado para configurar pipelines de pré-processamento de texto.</p>
                         </div>
-                        <div class="flex-shrink-0">January 2021 - Present<span class="text-primary"></span></div>
                     </div>
                 </div>
             </section>
