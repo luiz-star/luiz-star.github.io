@@ -23,15 +23,7 @@
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-                                            expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
-                </ul>
-            </div>
+           </div>
         </nav>
         <!-- Page Content-->
         <div class="container-fluid p-0">
@@ -44,10 +36,10 @@
                     </h1>
                     <div class="subheading mb-5">
                         Mafra -SC · Brasil 
-                    </div>    
-                        GITHUB- https://www.linkedin.com/in/luiz-henrique-sc
                     </div>
-                        Linkedin- linkedin.com/in/luiz-henrique-sc
+                    <a href=" https://www.linkedin.com/in/luiz-henrique-sc">Linkedin</a>
+                    </div>
+                    <a href=" https://github.com/luiz-star?after=Y3Vyc29yOnYyOpK5MjAyMS0wNS0wN1QyMTo1MDowMy0wMzowMM4YTRe3&tab=repositories">Github</a>   
                     </div>
                         <a href="mailto:name@email.com">riquebue@hotmail.com</a>
                     </div>
@@ -59,13 +51,14 @@
                 </div>
             </section>
             <hr class="m-0" />
-            <!-- Experience-->
+            <!-- PROJETOS-->
             <section class="resume-section" id="PROJETOS">
                 <div class="resume-section-content">
                     <h2 class="mb-5">PROJETOS</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Projeto1 Redes_Neurais_Convolucionais</h3>
+                             <a href="https://github.com/luiz-star/Redes_Neurais_convolucionais">Projeto1</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Redes_Neurais_convolucionais</div>
                             <p>Uma Rede Neural Convolucional (ConvNet / Convolutional Neural Network / CNN) é um algoritmo de Aprendizado Profundo (Deep Learning) que pode captar uma imagem de entrada, atribuir importância (pesos e vieses que podem ser aprendidos) a vários aspectos / objetos da imagem e ser capaz de diferenciar um do outro. O pré-processamento exigido em uma CNN é muito menor em comparação com outros algoritmos de classificação. Enquanto nos métodos primitivos os filtros são feitos à mão, com treinamento suficiente, as CNNs têm a capacidade de aprender esses filtros / características</p>
                         </div>
@@ -73,6 +66,7 @@
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Projeto2 Ebook_Machine_Learning</h3>
+                            <a href="https://github.com/luiz-star/Ebook_Machine_Learning">Projeto2</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Ebook_Machine_Learning</div>
                             <p>Ebook Desmistificando o Machine Learning produzido pelo comitê de Machine Learning I2AI , projeto realizado no intuito de ajudar no aprendizado de iniciantes</p>
                         </div>
@@ -80,6 +74,7 @@
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Projeto3 PLN_Word2vec</h3>
+                            <a href="https://github.com/luiz-star/PLN-Word2vec">Projeto3</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/PLN-Word2vec</div>
                             <p>Previsão de Palavras com Base no Contexto e Visualização com PCA
 Teste do Modelo e Redução de Dimensionalidade com PCA.            
@@ -91,6 +86,7 @@ Uma alternativa, é reduzir a diemensionalidade dos dados. Convertemos todos os 
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Projeto4 Deep Learning_Introducao_TensorFlow</h3>
+                            <a href="https://github.com/luiz-star/Intro_TensorFlow">Projeto4</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Intro_TensorFlow</div>
                             <p>O Tensorflow é uma das bibliotecas mais amplamente utilizadas para implementar o aprendizado de máquina e outros algoritmos que envolvem grandes operações matemáticas. O Tensorflow foi desenvolvido pelo Google e é uma das bibliotecas de aprendizado de máquina mais populares no GitHub. O Google usa o Tensorflow para aprendizado de máquina em quase todos os aplicativos. Se você já usou o Google Photos ou o Google Voice Search, então já utlizou uma aplicação criada com a ajuda do TensorFlow. Vamos compreender os detalhes por trás do TensorFlow.
 
@@ -100,6 +96,7 @@ Matematicamente, um tensor é um vetor N-dimensional, significando que um tensor
                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                        <div class="flex-grow-1">
                            <h3 class="mb-0">Projeto5 Agrupamento_de_Clientes</h3>
+                           <a href="https://github.com/luiz-star/Agrupamento_Clientes">Projeto5</a>
                            <div class="subheading mb-3">https://github.com/luiz-star/Agrupamento_Clientes</div>
                            <p> Agrupar os consumidores por similaridade a afim de compreender o comportamento dos clientes e sua relação com o consumo de energia.A partir de dados de consumo de energia de clientes, nosso trabalho é agrupar os consumidores por similaridade a afim de compreender o comportamento dos clientes e sua relação com o consumo de energia.</p>
                         </div>
@@ -107,6 +104,7 @@ Matematicamente, um tensor é um vetor N-dimensional, significando que um tensor
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Projeto6 Análise_Exploratória de Dados</h3>
+                            <a href="https://github.com/luiz-star/ANALISE-EXPLORATORIA-DADOS">Projeto6</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/ANALISE-EXPLORATORIA-DADOS</div>
                             <p>Neste notebook usaremos uma pesquisa recente nos EUA sobre o mercado de trabalho para programadores de software. Nosso objetivo é fazer uma investigação inicial dos dados a fim de detectar problemas com os dados, necessidade de mais variáveis, falhas na organização e necessidades de transformação.
 Pesquisa Salarial realizada pelo site https://www.freecodecamp.com/ com programadores de software nos EUA que frequentaram treinamentos Bootcamp.</p>
@@ -115,6 +113,7 @@ Pesquisa Salarial realizada pelo site https://www.freecodecamp.com/ com programa
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Projeto7 Diabetes_PUC_RIO</h3>
+                            <a href="https://github.com/luiz-star/Diabetes_Puc_rio">Projeto7</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Diabetes_Puc_rio</div>
                             <p>Pré-processamento de Dados.Especialização em Ciência de Dados - PUC-Rio. Para este experimento, vamos utilizar o dataset Pima Indians Diabetes, que é originalmente do Instituto Nacional de Diabetes e Doenças Digestivas e Renais. Seu objetivo dé prever se um paciente tem ou não diabetes, com base em certas medidas de diagnóstico médico. Este é um subconjunto de um dataset maior e aqui, todos os pacientes são mulheres com pelo menos 21 anos de idade e de herança indígena Pima.</p>
                         </div>
@@ -122,44 +121,11 @@ Pesquisa Salarial realizada pelo site https://www.freecodecamp.com/ com programa
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Projeto8 Mini_Palestra_FATEC_OURINHOS</h3>
-                             <a href="https://github.com/luiz-star/Minha_Palestra_FATEC_OURINHOS">team</a>
+                             <a href="https://github.com/luiz-star/Minha_Palestra_FATEC_OURINHOS">Projeto8</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Minha_Palestra_FATEC_OURINHOS</div>
                             <p>Pré processamento Linguagem Natural NeatText é um pacote simples de processamento de linguagem natural para limpar dados de texto e pré-processar dados de texto. Ele pode ser usado para limpar frases, extrair e-mails, números de telefone, links da web e emojis de frases. Também pode ser usado para configurar pipelines de pré-processamento de texto.</p>
                         </div>
                     </div>
-                </div>
-            </section>
-            <hr class="m-0" />
-            <!-- Education-->
-            <section class="resume-section" id="education">
-                <div class="resume-section-content">
-                    <h2 class="mb-5">Education</h2>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Universidad Europea del Atlântico</h3>
-                            <div class="subheading mb-3">Mestrado em Direção Estratégica em Tecnologias da Informação</div>
-                            <div>Especialização Engenharia de Software</div>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">October 2021 - Present</span></div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Pontifícia Universidade Católica do Rio de Janeiro - PUC Rio</h3>
-                            <div class="subheading mb-3">MBA Ciência de Dados</div>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">January 2021 - July 2022</span></div>
-                    </div>    
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Universidade Cesumar- UNICESSUMAR</h3>
-                            <div class="subheading mb-3">Pós Graduação em Engenharia e Gestão da Produção</div>
-                        </div>
-                    <div class="flex-shrink-0"><span class="text-primary">January 2018 - December 2019</span></div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Universidade do Contestado - UNC</h3>
-                            <div class="subheading mb-3">Graduação em Tecnologia em Logística</div>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">January 2011 - December 2013</span></div>
                 </div>
             </section>
             <hr class="m-0" />
