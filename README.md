@@ -104,6 +104,7 @@ Pesquisa Salarial realizada pelo site https://www.freecodecamp.com/ com programa
                             <h3 class="mb-0">Projeto8 Mini_Palestra_FATEC_OURINHOS</h3>
                              <a href="https://github.com/luiz-star/Minha_Palestra_FATEC_OURINHOS">Projeto8</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Minha_Palestra_FATEC_OURINHOS</div>
+                            <img src="NeatText.jpg" alt="Simplificando a limpeza de texto NLP" width=500 height=300>
                             <p>Pré processamento Linguagem Natural NeatText é um pacote simples de processamento de linguagem natural para limpar dados de texto e pré-processar dados de texto. Ele pode ser usado para limpar frases, extrair e-mails, números de telefone, links da web e emojis de frases. Também pode ser usado para configurar pipelines de pré-processamento de texto.</p>
                         </div>
                     </div>
