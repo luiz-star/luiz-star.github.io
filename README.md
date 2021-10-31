@@ -126,7 +126,7 @@ Suponha que temos uma declaração de problema e realmente precisamos aplicar to
 Quando você executa a função configuração, ela primeiro confirma os tipos de dados e, em seguida, se você pressionar enter, criará o ambiente para você prosseguir</p>
                         </div>
                     </div>
-            </section>
+                </section>
             <hr class="m-0" />
             <!-- Skills-->
             <section class="resume-section" id="skills">
@@ -274,6 +274,6 @@ Quando você executa a função configuração, ela primeiro confirma os tipos d
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-   </body>
+    </body>
 </html>
         
