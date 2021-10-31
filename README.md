@@ -72,8 +72,8 @@
                    </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Projeto2 Ebook_Machine_Learning</h3>
-                            <div class="subheading mb-3">https://github.com/luiz-star/Ebook_Machine_Learning</div>
+                            <h3 class="mb-0">https://github.com/luiz-star/Ebook_Machine_Learning</h3>
+                            <div class="subheading mb-3">Ebook_Machine_Learning</div>
                             <p>Ebook Desmistificando o Machine Learning produzido pelo comitê de Machine Learning I2AI , projeto realizado no intuito de ajudar no aprendizado de iniciantes</p>
                         </div>
                    </div>
@@ -87,7 +87,7 @@
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Projeto4 Mini_Palestra_FATEC_OURINHOS</h3>
-                            <div class="subheading mb-3">[https://github.com/luiz-star/Minha_Palestra_FATEC_OURINHOS]</div>
+                            <div class="subheading mb-3">https://github.com/luiz-star/Minha_Palestra_FATEC_OURINHOS</div>
                             <p>Pré processamento Linguagem Natural NeatText é um pacote simples de processamento de linguagem natural para limpar dados de texto e pré-processar dados de texto. Ele pode ser usado para limpar frases, extrair e-mails, números de telefone, links da web e emojis de frases. Também pode ser usado para configurar pipelines de pré-processamento de texto.</p>
                         </div>
                     </div>
