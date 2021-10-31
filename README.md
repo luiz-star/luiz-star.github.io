@@ -34,7 +34,7 @@
                             <h3 class="mb-0">Projeto1 Redes_Neurais_Convolucionais</h3>
                             <a href="https://github.com/luiz-star/Redes_Neurais_convolucionais">Projeto1</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Redes_Neurais_convolucionais</div>
-                            <img src="rede_neural.png" alt="Arquitetura Rede Neural" width=300 height=200>
+                            <img src="rede_neural.png" alt="Arquitetura Rede Neural" width=500 height=300>
                             <p>Uma Rede Neural Convolucional (ConvNet / Convolutional Neural Network / CNN) é um algoritmo de Aprendizado Profundo (Deep Learning) que pode captar uma imagem de entrada, atribuir importância (pesos e vieses que podem ser aprendidos) a vários aspectos / objetos da imagem e ser capaz de diferenciar um do outro. O pré-processamento exigido em uma CNN é muito menor em comparação com outros algoritmos de classificação. Enquanto nos métodos primitivos os filtros são feitos à mão, com treinamento suficiente, as CNNs têm a capacidade de aprender esses filtros / características</p>
                         </div>
                    </div>
@@ -43,6 +43,7 @@
                             <h3 class="mb-0">Projeto2 Ebook_Machine_Learning</h3>
                             <a href="https://github.com/luiz-star/Ebook_Machine_Learning">Projeto2</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Ebook_Machine_Learning</div>
+                            <img src="Ebook.jpg" alt="Desmistificando Machine Learning" width=500 height=300>
                             <p>Ebook Desmistificando o Machine Learning produzido pelo comitê de Machine Learning I2AI , projeto realizado no intuito de ajudar no aprendizado de iniciantes</p>
                         </div>
                    </div>    
@@ -51,6 +52,7 @@
                             <h3 class="mb-0">Projeto3 PLN_Word2vec</h3>
                             <a href="https://github.com/luiz-star/PLN-Word2vec">Projeto3</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/PLN-Word2vec</div>
+                            <img src="PLN.png" alt="Nuvem de Palavras" width=500 height=300>
                             <p>Previsão de Palavras com Base no Contexto e Visualização com PCA
 Teste do Modelo e Redução de Dimensionalidade com PCA.            
 
@@ -63,6 +65,7 @@ Uma alternativa, é reduzir a diemensionalidade dos dados. Convertemos todos os 
                             <h3 class="mb-0">Projeto4 Deep Learning_Introducao_TensorFlow</h3>
                             <a href="https://github.com/luiz-star/Intro_TensorFlow">Projeto4</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Intro_TensorFlow</div>
+                            <img src="tensor.png" alt="Estrutura Tensor" width=500 height=300>
                             <p>O Tensorflow é uma das bibliotecas mais amplamente utilizadas para implementar o aprendizado de máquina e outros algoritmos que envolvem grandes operações matemáticas. O Tensorflow foi desenvolvido pelo Google e é uma das bibliotecas de aprendizado de máquina mais populares no GitHub. O Google usa o Tensorflow para aprendizado de máquina em quase todos os aplicativos. Se você já usou o Google Photos ou o Google Voice Search, então já utlizou uma aplicação criada com a ajuda do TensorFlow. Vamos compreender os detalhes por trás do TensorFlow.
 
 Matematicamente, um tensor é um vetor N-dimensional, significando que um tensor pode ser usado para representar conjuntos de dados N-dimensionais.</p>
@@ -73,6 +76,7 @@ Matematicamente, um tensor é um vetor N-dimensional, significando que um tensor
                            <h3 class="mb-0">Projeto5 Agrupamento_de_Clientes</h3>
                            <a href="https://github.com/luiz-star/Agrupamento_Clientes">Projeto5</a>
                            <div class="subheading mb-3">https://github.com/luiz-star/Agrupamento_Clientes</div>
+                           <img src="tecnologia.jpg" alt="Consumo de Energia" width=500 height=300>
                            <p> Agrupar os consumidores por similaridade a afim de compreender o comportamento dos clientes e sua relação com o consumo de energia.A partir de dados de consumo de energia de clientes, nosso trabalho é agrupar os consumidores por similaridade a afim de compreender o comportamento dos clientes e sua relação com o consumo de energia.</p>
                         </div>
                    </div>
@@ -81,6 +85,7 @@ Matematicamente, um tensor é um vetor N-dimensional, significando que um tensor
                             <h3 class="mb-0">Projeto6 Análise_Exploratória de Dados</h3>
                             <a href="https://github.com/luiz-star/ANALISE-EXPLORATORIA-DADOS">Projeto6</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/ANALISE-EXPLORATORIA-DADOS</div>
+                            <img src="analise_dados.png" alt="Análise de Dados Etapas" width=500 height=300>
                             <p>Neste notebook usaremos uma pesquisa recente nos EUA sobre o mercado de trabalho para programadores de software. Nosso objetivo é fazer uma investigação inicial dos dados a fim de detectar problemas com os dados, necessidade de mais variáveis, falhas na organização e necessidades de transformação.
 Pesquisa Salarial realizada pelo site https://www.freecodecamp.com/ com programadores de software nos EUA que frequentaram treinamentos Bootcamp.</p>
                         </div>
@@ -90,6 +95,7 @@ Pesquisa Salarial realizada pelo site https://www.freecodecamp.com/ com programa
                             <h3 class="mb-0">Projeto7 Diabetes_PUC_RIO</h3>
                             <a href="https://github.com/luiz-star/Diabetes_Puc_rio">Projeto7</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Diabetes_Puc_rio</div>
+                            <img src="data_sciense.jpg" alt="Pré Processamento" width=500 height=300>
                             <p>Pré-processamento de Dados.Especialização em Ciência de Dados - PUC-Rio. Para este experimento, vamos utilizar o dataset Pima Indians Diabetes, que é originalmente do Instituto Nacional de Diabetes e Doenças Digestivas e Renais. Seu objetivo dé prever se um paciente tem ou não diabetes, com base em certas medidas de diagnóstico médico. Este é um subconjunto de um dataset maior e aqui, todos os pacientes são mulheres com pelo menos 21 anos de idade e de herança indígena Pima.</p>
                         </div>
                     </div>
