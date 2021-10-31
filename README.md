@@ -43,7 +43,7 @@
                         <span class="text-primary">Henrique</span>
                     </h1>
                     <div class="subheading mb-5">
-                        Mafra -SC · Brasil . GITHUB- https://github.com/luiz-star
+                        Mafra -SC · Brasil  GITHUB- https://github.com/luiz-star
                         <a href="mailto:name@email.com">riquebue@hotmail.com</a>
                     </div>
                     <p class="lead mb-5">Olá, seja bem vindo (a)!
