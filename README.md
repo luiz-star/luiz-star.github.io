@@ -45,21 +45,12 @@
                     <div class="subheading mb-5">
                         Mafra -SC · Brasil 
                     </div>    
-                        GITHUB- https://github.com/luiz-star
-                </div>
+                        GITHUB- https://www.linkedin.com/in/luiz-henrique-sc
+                    </div>
+                        Linkedin- linkedin.com/in/luiz-henrique-sc
                         <a href="mailto:name@email.com">riquebue@hotmail.com</a>
                     </div>
-                    <p class="lead mb-5">Olá, seja bem vindo (a)!
-
-De uma área não tecnológica, descobri a Ciência de Dados por acaso no final de 2015. Apaixonei-me. Comecei por curiosidade e descobri um universo em que eu pudesse, com base em dados, ajudar pessoas e empresas no desenvolvimento de seus negócios. Decidi embarcar e procurei por conhecimentos técnico e não técnico que me permitissem um melhor desenvolvimento focado em entregar valor.
-
-Possuo um perfil curioso, flexível e dinâmico e isso me permite pesquisar, aprender, filtrar informações e compartilhá-los para decisão cooperativa.
-
-Sou capaz de aplicar pensamento crítico e inteligência na exploração, tratamento e manipulação, visualização e análise de dados através de algoritmos estatístico e de Machine Learning com o objetivo de encontrar padrões, realizar predições e extrair insights poderosos para resolução de problemas de negócio.
-
-Sou capaz de atuar com a construção de banco de dados utilizados por diferentes áreas em análises, resultando em grande economia de tempo na busca, estruturação, limpeza e validação de dados.
-
-Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de Dados, Análise de Negócios, Visualização de Dados e Machine Learning.</p>
+                    <p class="lead mb-5">Olá, seja bem vindo (a)! </p>
                     <div class="social-icons">
                         <a class="social-icon" href="#!"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="#!"><i class="fab fa-github"></i></a>                        
@@ -68,13 +59,13 @@ Conhecimentos em Estatística, Análise de Big Data, Consultoria, Engenharia de 
             </section>
             <hr class="m-0" />
             <!-- Experience-->
-            <section class="resume-section" id="experience">
+            <section class="resume-section" id="PROJETOS">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Experience</h2>
+                    <h2 class="mb-5">PROJETOS</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Content Data Science</h3>
-                            <div class="subheading mb-3">Kfactor Academy </div>
+                            <h3 class="mb-0">Redes_Neurais_Convolucionais</h3>
+                            <div class="subheading mb-3">https://github.com/luiz-star/Redes_Neurais_convolucionais</div>
                             <p>Content teacher at EAD data science creating materials, codes, concepts. To ensure the students' learning process through content management. Determining the best ways and practices to bring knowledge to students.</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">October 2021 - Present</span></div>
