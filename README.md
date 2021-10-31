@@ -34,7 +34,7 @@
                             <h3 class="mb-0">Projeto1 Redes_Neurais_Convolucionais</h3>
                             <a href="https://github.com/luiz-star/Redes_Neurais_convolucionais">Projeto1</a>
                             <div class="subheading mb-3">https://github.com/luiz-star/Redes_Neurais_convolucionais</div>
-                            <img src="C:/Users/Bueno/Pictures/img/rede_neural" alt="Arquitetura Rede Neural" width=300 height=200>
+                            <img src="rede_neural.png" alt="Arquitetura Rede Neural" width=300 height=200>
                             <p>Uma Rede Neural Convolucional (ConvNet / Convolutional Neural Network / CNN) é um algoritmo de Aprendizado Profundo (Deep Learning) que pode captar uma imagem de entrada, atribuir importância (pesos e vieses que podem ser aprendidos) a vários aspectos / objetos da imagem e ser capaz de diferenciar um do outro. O pré-processamento exigido em uma CNN é muito menor em comparação com outros algoritmos de classificação. Enquanto nos métodos primitivos os filtros são feitos à mão, com treinamento suficiente, as CNNs têm a capacidade de aprender esses filtros / características</p>
                         </div>
                    </div>
