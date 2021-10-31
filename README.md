@@ -16,7 +16,6 @@
                     </div>
                     <a href="mailto:name@email.com">riquebue@hotmail.com</a>
                     <p class="lead mb-5">Olá, seja bem vindo (a)!</p>
-                </div>      
             </section>
             <hr class="m-0" />
         <!-- P_R_O_J_E_T_O_S-->
