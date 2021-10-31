@@ -11,11 +11,13 @@
                     <div class="subheading mb-5">
                         Mafra -SC · Brasil 
                     <a href=" https://www.linkedin.com/in/luiz-henrique-sc">Linkedin</a>
-                    </div>
+                    <div>
                     <a href=" https://github.com/luiz-star?after=Y3Vyc29yOnYyOpK5MjAyMS0wNS0wN1QyMTo1MDowMy0wMzowMM4YTRe3&tab=repositories">Github</a>
                     </div>
                     <a href="mailto:name@email.com">riquebue@hotmail.com</a>
+                    <div>  
                     <p class="lead mb-5">Olá, seja bem vindo (a)!</p>
+                    </div>  
            </section>
            <hr class="m-0" />
         <!-- P_R_O_J_E_T_O_S-->
